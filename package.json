@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jpapillon/react-native-carousel-pager.git"
+    "url": "git+https://github.com/haoxiaoxin/react-native-carousel-pager.git"
   },
   "keywords": [
     "react",
@@ -21,7 +21,7 @@
   "author": "Jeremie Papillon",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jpapillon/react-native-carousel-pager/issues"
+    "url": "https://github.com/haoxiaoxin/react-native-carousel-pager/issues"
   },
-  "homepage": "https://github.com/jpapillon/react-native-carousel-pager#readme"
+  "homepage": "https://github.com/haoxiaoxin/react-native-carousel-pager#readme"
 }
